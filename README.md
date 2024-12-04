@@ -10,7 +10,7 @@ I do **Competitive Programming** on platforms like <a href="https://www.codechef
 </p>
 
 Sometimes, in my free time I write blogs about Technology and Science.
-You can check them out here <a href="https://medium.com/@beherashweta54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beherashweta54" height="30" width="40" /></a>
+You can check them out here <a href="https://medium.com/@beherashweta54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beherashweta54" height="30" width="30" /></a>
 
 I try to learn new things everyday, and focus on my improvement. Trying to be better each day!
 
