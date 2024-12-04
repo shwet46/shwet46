@@ -2,7 +2,7 @@
 
 I'm Shweta, currently an engineering student.
 
-I'm primarily interested in **Competitive Programming**.Besides this I do **Web Development**.  Currently, I am learning **Flutter**.
+I'm primarily interested in **Competitive Programming**. Besides this I do **Web Development**.  Currently, I am learning **Flutter**.
 
 I do **Competitive Programming** on platforms like <a href="https://www.codechef.com/users/shwet46" target="blank"><img align="center" src="https://img.icons8.com/fluent/512/codechef.png" alt="shwet46" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shwet46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shwet46" height="30" width="40" /></a>
