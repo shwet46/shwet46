@@ -9,7 +9,7 @@ I do **Competitive Programming** on platforms like  <a href="https://codeforces.
 </p>
 
 Sometimes, in my free time I write blogs about Technology and Science.
-You can check them out here <a href="https://medium.com/@beherashweta54" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="@beherashweta54" height="30" width="30" /></a>
+You can check them out here <a href="https://medium.com/@shwetabehera" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="@shwetabehera" height="30" width="30" /></a>
 
 I try to learn new things everyday, and focus on my improvement. Trying to be better each day!
 
