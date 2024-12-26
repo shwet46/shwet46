@@ -17,7 +17,7 @@ I try to learn new things everyday, and focus on my improvement. Trying to be be
 
 #### Let's connect!
 <p align="left">
-<a href="https://x.com/shwet46" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/027/395/710/small_2x/twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the-world-s-most-popular-social-media-free-png.png" alt="@shwet46" height="36" width="36" /></a>
+<a href="https://x.com/shwet46" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/027/395/710/small_2x/twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the-world-s-most-popular-social-media-free-png.png" alt="@shwet46" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/shweta-behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shweta-behera" height="30" width="40" /></a>
 </p>
 
