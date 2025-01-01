@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Shweta**](https://shwetabehera.vercel.app/), currently an engineering student.
+I'm [**Shweta**](https://shwetabehera.vercel.app/).
 
 I'm primarily interested in **Competitive Programming**. Besides this I do **Web Development and Database Management**.
 
