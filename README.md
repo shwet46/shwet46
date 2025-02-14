@@ -5,7 +5,7 @@
 
 > ls skills  
 Languages: C/C++, Java, JavaScript, TypeScript, Python  
-Frameworks & Tools: React.js, Next.js, Node.js, Express.js, Redux Toolkit, TailwindCSS  
+Frameworks & Tools: React.js, Next.js, Node.js, Express.js, Redux Toolkit
 Databases: MongoDB, PostgreSQL  
 
 > exit
