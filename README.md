@@ -1,4 +1,9 @@
-### Hello there ! <img src="https://user-images.githubusercontent.com/96183163/189265308-c4ce98c4-e34c-457f-aaed-318a283c672a.gif" width="30"/>
+<h2></h2>
+<div style="width: 100%; display: block;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF66CC&center=false&vCenter=true&width=1000&lines=Hello+There+!+I'm+Shweta." 
+       alt="Hello There! I'm Shweta. animated typed out" width="100%"/>
+</div>
+
 ```
 $ whoami  
   Shweta :)
