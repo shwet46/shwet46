@@ -18,12 +18,4 @@ $ ls skills
 
 $ exit
 ```
-<h3><code> Sometimes I do a bit of competitive programming </code></h3>
-
-<p align="left">
-   <a href="https://leetcode.com/u/bunny46/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="bunny46" height="35" width="38" /></a>
-  <a href="https://codeforces.com/profile/shwet46" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" alt="shwet46" height="40" /></a>
-  <a href="https://www.codechef.com/users/shwet46" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112865144/208242156-4db8653b-0464-43ce-a54e-08f701b64b73.png" alt="shwet46" height="40" width="40" /></a>
-</p>
-
 ---
