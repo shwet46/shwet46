@@ -18,7 +18,7 @@ $ ls skills
 
 $ exit
 ```
-<h3><code>Sometimes I do a bit of competitive programming :)</code></h3>
+<h3><code> Sometimes I do a bit of competitive programming </code></h3>
 
 <p align="left">
    <a href="https://leetcode.com/u/bunny46/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="bunny46" height="35" width="38" /></a>
