@@ -4,7 +4,7 @@
        alt="Hello There! I'm Shweta. animated typed out" width="100%"/>
 </div>
 
-```
+```bash
 $ whoami  
   Shweta :)
 
