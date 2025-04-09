@@ -19,4 +19,14 @@ $ ls skills
 $ exit
 ```
 
+<h3 style="display: inline-flex; align-items: center; gap: 10px; font-family: Arial, sans-serif; font-weight: 600; color: black;">
+  <a href="https://shwetabehera.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://logos-world.net/wp-content/uploads/2020/02/Batman-movie-Logo-1992.png"
+         alt="Batman Logo"
+         style="height: 26px; width: auto; display: block;" />
+  </a>
+  <code>Click the logo to know more about me ⚡</code>
+</h3>
+
+
 ---
