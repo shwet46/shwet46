@@ -12,7 +12,7 @@ $ ls skills
   Languages:
   > C/C++, Java, JavaScript, TypeScript, Python  
   Frameworks & Tools:
-  > React, Next.js, Node.js, Express.js, Redux Toolkit
+  > Flutter, React, Next.js, Node.js, Express.js, Redux Toolkit
   Databases:
   > MongoDB, PostgreSQL  
 
