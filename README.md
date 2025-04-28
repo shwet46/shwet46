@@ -19,9 +19,12 @@ $ ls skills
 $ exit
 ```
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shwet46&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shwet46&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="151" alt="languages graph"  />
-</div>
+<code>Connect with me</code>
+
+<p align="left">
+<a href="https://twitter.com/@shwet46" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" alt="@shwet46" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/shweta-behera" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="40" width="40" /></a>
+<a href="https://medium.com/@shwetabehera" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=NO8It5EgLtpM&format=png&color=000000" alt="@beherashweta54" height="40" width="40" /></a>
+</p>
 
 ---
