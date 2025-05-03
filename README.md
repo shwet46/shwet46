@@ -10,11 +10,21 @@ $ whoami
 
 $ ls skills  
   Languages:
-  > C/C++, Java, JavaScript, TypeScript, Python  
-  Frameworks & Tools:
-  > Flutter, React, Next.js, Node.js, Express.js, Redux Toolkit
+  └─ C/C++, Java, JavaScript, TypeScript, Python, Go, Dart
+  Frameworks and Tools:
+  └─ Flutter, React, Next.js, Node.js, Express.js, Docker, Figma
   Databases:
-  > MongoDB, PostgreSQL  
+  └─ MongoDB, PostgreSQL  
+
+$ cat interests.txt  
+  └─ Development 🛠️  
+  └─ Competitive Programming 💻  
+  └─ Blog Writing ✍️  
+
+$ cat facts.txt  
+  └─ Passionate about building impactful software.  
+  └─ Love solving algorithmic problems.  
+  └─ Enjoy learning new technologies and experimenting with them.   
 
 $ exit
 ```
