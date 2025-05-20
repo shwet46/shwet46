@@ -5,36 +5,30 @@
 </div>
 
 ```bash
-$ whoami  
-  Shweta :)
+$ whoami
+Shweta :)
 
-$ ls skills  
-  Languages:
-  └─ C/C++, Java, JavaScript, TypeScript, Python, Go, Dart
-  Frameworks and Tools:
-  └─ Flutter, React, Next.js, Node.js, Express.js, Docker, Figma
-  Databases:
-  └─ MongoDB, PostgreSQL  
+$ ls ~/skills
+Languages:
+  └── C/C++, Java, JavaScript, TypeScript, Python, Go, Dart
+Frameworks & Tools:
+  └── Flutter, React, Next.js, Node.js, Express.js, Docker, Figma
+Databases:
+  └── MongoDB, PostgreSQL
 
-$ cat interests.txt  
-  └─ Development 🛠️  
-  └─ Competitive Programming 💻  
-  └─ Blog Writing ✍️  
+$ cat ~/interests.txt
+🛠️  Building sleek, scalable applications  
+💻  Competitive programming & problem solving  
+✍️  Tech blogging and sharing knowledge
 
-$ cat facts.txt  
-  └─ Passionate about building impactful software.  
-  └─ Love solving algorithmic problems.  
-  └─ Enjoy learning new technologies and experimenting with them.   
+$ cat ~/facts.txt
+- Passionate about impactful software development  
+- Thrive on algorithmic challenges  
+- Always exploring new tools & technologies  
+
+$ echo "Be better everyday." > ~/status.log
 
 $ exit
 ```
-
-<code>Connect with me</code>
-
-<p align="left">
-<a href="https://twitter.com/@shwet46" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" alt="@shwet46" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/shweta-behera" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="40" width="40" /></a>
-<a href="https://medium.com/@shwetabehera" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=NO8It5EgLtpM&format=png&color=000000" alt="@beherashweta54" height="40" width="40" /></a>
-</p>
 
 ---
