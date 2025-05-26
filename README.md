@@ -25,11 +25,11 @@ $ cat ~/interests.txt
 ✍️  Tech blogging and sharing knowledge
 
 shweta@shwet46 ~
-$ echo "Be better everyday." > ~/status.log
-
-shweta@shwet46 ~
 $ cat ~/contact.txt
 📫 Email: shwetabehera444@gmail.com
+
+shweta@shwet46 ~
+$ echo "Be better everyday." > ~/status.log
 
 shweta@shwet46 ~
 $ exit
