@@ -5,30 +5,41 @@
 </div>
 
 ```bash
-$ whoami
-Shweta :)
+# ===============================
+#   Welcome to Shweta's Terminal
+# ===============================
 
+shweta@shwet46 ~
 $ ls ~/skills
-Languages:
+Languages/
   └── C/C++, Java, JavaScript, TypeScript, Python, Go, Dart
-Frameworks & Tools:
+Frameworks_&_Tools/
   └── Flutter, React, Next.js, Node.js, Express.js, Docker, Figma
-Databases:
+Databases/
   └── MongoDB, PostgreSQL
 
+shweta@shwet46 ~
 $ cat ~/interests.txt
 🛠️  Building sleek, scalable applications  
 💻  Competitive programming & problem solving  
 ✍️  Tech blogging and sharing knowledge
 
+shweta@shwet46 ~
 $ cat ~/facts.txt
 - Passionate about impactful software development  
 - Thrive on algorithmic challenges  
 - Always exploring new tools & technologies  
 
+shweta@shwet46 ~
 $ echo "Be better everyday." > ~/status.log
 
+shweta@shwet46 ~
+$ cat ~/contact.txt
+📫 Email: shwetabehera444@gmail.com
+
+shweta@shwet46 ~
 $ exit
+
 ```
 
 ---
