@@ -25,12 +25,6 @@ $ cat ~/interests.txt
 ✍️  Tech blogging and sharing knowledge
 
 shweta@shwet46 ~
-$ cat ~/facts.txt
-- Passionate about impactful software development  
-- Thrive on algorithmic challenges  
-- Always exploring new tools & technologies  
-
-shweta@shwet46 ~
 $ echo "Be better everyday." > ~/status.log
 
 shweta@shwet46 ~
