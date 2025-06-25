@@ -4,52 +4,38 @@
        alt="Hello There! I'm Shweta. animated typed out" width="100%"/>
 </div>
 
-```bash
-# =============================================
-#   Welcome to Shweta's Developer Terminal
-# =============================================
+```yaml
+name: Shweta 
+skills:
+  languages:
+    - C/C++
+    - Java
+    - JavaScript
+    - TypeScript
+    - Python
 
-shweta@shwet46 MINGW64 ~
-$ ls skills
-Languages.txt  Frameworks_&_Tools.txt  Databases.txt
+  frameworks_and_tools:
+    - Flutter
+    - React
+    - Next.js
+    - Node.js
+    - Express.js
+    - Docker
+    - Firebase
+    - Postman
 
-shweta@shwet46 MINGW64 ~
-$ cat skills/Languages.txt
-C++
-Java
-JavaScript
-TypeScript
-Python
+  databases:
+    - MongoDB
+    - PostgreSQL
+    - Firebase Firestore
 
-shweta@shwet46 MINGW64 ~
-$ cat skills/Frameworks_&_Tools.txt
-Flutter
-React
-Next.js
-Node.js
-Express.js
-Docker
-Firebase
-Figma
+interests:
+  - "🛠️ Building sleek, scalable applications"
+  - "💻 Competitive programming & problem solving"
+  - "🎨 Creating beautiful art"
 
-shweta@shwet46 MINGW64 ~
-$ cat skills/Databases.txt
-MongoDB
-PostgreSQL
-Firebase Firestore
-
-shweta@shwet46 MINGW64 ~
-$ cat interests.txt
-🛠️  Building sleek, scalable applications
-💻  Competitive programming & problem solving
-🎨  Creating beautiful art
-
-shweta@shwet46 MINGW64 ~
-$ cat contact.txt
-📫 Email: shwetabehera444@gmail.com
-
-shweta@shwet46 MINGW64 ~
-$ exit
+contact:
+  email: shwetabehera444@gmail.com
 
 ```
 
