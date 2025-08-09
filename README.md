@@ -5,7 +5,6 @@
 </div>
 
 ```yaml
-name: Shweta 
 skills:
   languages:
     - C/C++
@@ -14,28 +13,28 @@ skills:
     - TypeScript
     - Python
 
-  frameworks_and_tools:
-    - Flutter
-    - React
-    - Next.js
-    - Node.js
-    - Express.js
+  frameworks_and_libraries:
+    frontend:
+      - Flutter
+      - React
+      - Next.js
+    backend:
+      - Node.js
+      - Express.js
+
+  devops_and_tools:
     - Docker
     - Firebase
     - Postman
+    - Git
 
   databases:
     - MongoDB
     - PostgreSQL
-    - Firebase Firestore
-
-interests:
-  - "🛠️ Building sleek, scalable applications"
-  - "💻 Competitive programming & problem solving"
-  - "🎨 Creating beautiful art"
 
 contact:
   email: shwetabehera444@gmail.com
+
 
 ```
 
