@@ -1,28 +1,30 @@
 <div style="width: 100%; display: block;">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Petit+Formal+Script&size=28&duration=2800&pause=2000&color=F87171&center=false&vCenter=true&width=1000&lines=%3E+App+%26+AI+Developer;%3E+Full-Stack+Developer;%3E+Competitive+Programmer"
-    alt="Typing animation showing App & AI Developer, Full-Stack Developer, Competitive Programmer"
+    src="https://readme-typing-svg.demolab.com?font=Petit+Formal+Script&size=28&duration=2800&pause=2000&color=F87171&center=false&vCenter=true&width=1000&lines=%3E+5x+Hackathon+Winner;%3E+App+%26+AI+Developer;%3E+Full-Stack+Developer;%3E+Competitive+Programmer"
+    alt="Typing animation: 5x Hackathon Winner, App & AI Developer, Full-Stack Developer, Competitive Programmer"
     width="100%"
   />
 </div>
 
 
 ```yaml
+# System Configuration
+# v1.0.1
+
 whoami:
-  name: Shweta Behera
-  email: shwetabehera444@gmail.com
-  portfolio-website: https://shwet46.me
-  location: India
+  name: Shweta
+  username: @shwet46
+  location: [19.0760, 72.8777] # Mumbai, IN
 
-cp-stats:
-  - specialist @Codeforces
-  - 3 ★ @CodeChef
+tech-stack:
+  languages: [C++, TypeScript, JavaScript, Python, Dart, Java]
+  frameworks: [Next.js, Flutter, Flask, FastAPI, Node.js]
+  devops&db: [Git, Docker, PostgreSQL, MongoDB, Pinecone, Firebase]
 
-interests:
-  - competitive programming
-  - artwork
+interest:
+  - problem-solving
+  - digital-illustration
   - photography
-
 ```
 
 ---
