@@ -1,4 +1,4 @@
-<img src="reporepro.gif" width="100%" alt="Repository preview">
+![Repository preview](reporepro.gif)
 
 <br/>
 
