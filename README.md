@@ -2,15 +2,15 @@
 <br/>
 <!--START_WAKATIME-->
 ```text
-TypeScript   █████████    36%
-Python       ███          13%
-Bash         ███          12%
+TypeScript   ████████     33%
+Markdown     ████         15%
+Bash         ███          14%
 JavaScript   ███          11%
 CSS          ██           8%
-C++          █            5%
-Markdown     █            4%
-JSON         █            4%
-Image (png)  █            3%
+Python       ██           7%
+C++          █            3%
+JSON         █            3%
 Other        █            2%
+Image (png)  █            2%
 ```
 <!--END_WAKATIME-->
