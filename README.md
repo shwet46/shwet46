@@ -2,6 +2,7 @@
 <br/>
 <!--START_WAKATIME-->
 ```text
-C++  █████████████████████████ 100%
+TypeScript  █████████████████████ 85%
+JavaScript  ████         15%
 ```
 <!--END_WAKATIME-->
