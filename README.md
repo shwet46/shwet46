@@ -2,7 +2,9 @@
 <br/>
 <!--START_WAKATIME-->
 ```text
-TypeScript  █████████████████████ 85%
-JavaScript  ████         15%
+TypeScript  ███████████████████ 77%
+JavaScript  ███          12%
+Markdown    ██           10%
+Other       █            1%
 ```
 <!--END_WAKATIME-->
